@@ -1,0 +1,44 @@
+.attribution { 
+    font-size: 11px; text-align: center;
+  }
+
+  .attribution a { 
+    color: #b48895; 
+  }
+
+  body {
+    background-color: #722b40;
+    color: #FFE7E7;
+  }
+
+  .profile-container {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  .main {
+    background-color: #B47B84;
+    width: 300px;
+    padding: 25px;
+    text-align: center;
+    border-radius: 10px;
+  }
+
+  .item {
+    background-color: #CAA6A6;
+    margin: 5px;
+    padding: 7px;
+    border-radius: 5px;
+  }
+
+  .prof-img {
+    width: 30%;
+    border-radius: 10px;
+  }
+
+  .location {
+    color: #963753;
+  }
